@@ -1,0 +1,28 @@
+{
+  "name": "scalable-promise-all",
+  "version": "1.0.0",
+  "description": "Scalable version of Promise.all",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "bugs": {
+    "url": "https://github.com/raut-andrey/scalable-promise-all/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raut-andrey/scalable-promise-all.git"
+  },
+  "homepage": "https://github.com/raut-andrey/scalable-promise-all",
+  "keywords": [
+    "promise",
+    "all",
+    "mutable",
+    "async",
+    "js",
+    "javascript"
+  ],
+  "author": "andrey-raut",
+  "readmeFilename": "README.md",
+  "license": "ISC"
+}
